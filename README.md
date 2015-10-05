@@ -47,7 +47,7 @@ Journal of Brains, Minds and Machines
 ### Integration
 
   - API/view feature parity (anything visible on a page should be retrievable as json)
-  - 3rd party services: [Plotly](http://plot.ly), [Center for Open Science](http://cos.io), [Publons](publons.com)
+  - 3rd party services: [Plotly](http://plot.ly), [Center for Open Science](http://cos.io), [Publons](http://publons.com)
 
 ### Citations
 
