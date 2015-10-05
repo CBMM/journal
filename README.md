@@ -19,7 +19,7 @@ Journal of Brains, Minds and Machines
   - Reviews linked to correct articles
   - Retraction
   - DOI's
-  - ORCID id's
+  - [ORCID](http://orcid.org)id's
 
 ### Post-publication peer review
 
@@ -47,7 +47,7 @@ Journal of Brains, Minds and Machines
 ### Integration
 
   - API/view feature parity (anything visible on a page should be retrievable as json)
-  - 3rd party services: Plotly, Open Science Institute, Publons
+  - 3rd party services: [Plotly](http://plot.ly), [Center for Open Science](http://cos.io), [Publons](publons.com)
 
 ### Citations
 
